@@ -1,0 +1,5 @@
+﻿  lab5.cpp
+D:\laboratory\lab\lab5\lab5.cpp(11,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\laboratory\lab\lab5\lab5.cpp(18,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\laboratory\lab\lab5\lab5.cpp(26,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab5.vcxproj -> D:\laboratory\lab\Debug\lab5.exe
